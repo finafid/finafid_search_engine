@@ -1,0 +1,11 @@
+pandas
+nltk
+scikit-learn
+streamlit
+Pillow
+fuzzywuzzy
+python-Levenshtein
+pymongo
+
+#myenv\Scripts\activate
+#pip install -r requirements.txt
