@@ -61,6 +61,8 @@ share/python-wheels/
 
 # Node modules (if any)
 node_modules/
+# Node modules (if any)
+node_modules/
  myenv/
 *.csv
 .ipynb_checkpoints/
