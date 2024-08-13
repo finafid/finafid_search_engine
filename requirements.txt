@@ -6,6 +6,7 @@ Pillow
 fuzzywuzzy
 python-Levenshtein
 pymongo
+uvicorn
 
 #myenv\Scripts\activate
 #pip install -r requirements.txt
