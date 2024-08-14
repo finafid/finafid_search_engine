@@ -10,6 +10,8 @@ from fuzzywuzzy import process
 from pymongo import MongoClient
 import os
 import nltk
+nltk.download('punkt')
+
 nltk.download('punkt', download_dir='/app/nltk_data')
 nltk.data.path.append('/app/nltk_data')
 
