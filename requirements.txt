@@ -9,5 +9,6 @@ pymongo
 uvicorn
 fastapi
 nltk
+gunicorn
 #myenv\Scripts\activate
 #pip install -r requirements.txt
