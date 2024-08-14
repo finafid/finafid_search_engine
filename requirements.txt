@@ -8,5 +8,6 @@ python-Levenshtein
 pymongo
 uvicorn
 fastapi
+nltk
 #myenv\Scripts\activate
 #pip install -r requirements.txt
