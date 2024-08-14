@@ -9,9 +9,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 from fuzzywuzzy import process
 from pymongo import MongoClient
 import os
+import nltk
+nltk.download('punkt', download_dir='/app/nltk_data')
+nltk.data.path.append('/app/nltk_data')
 
-# Ensure you have downloaded the necessary NLTK data files
-nltk.download('punkt')
 
 # Define tokenizer and stemmer for TF-IDF and fuzzy matching
 stemmer = SnowballStemmer('english')
