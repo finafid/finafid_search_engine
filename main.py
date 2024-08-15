@@ -19,7 +19,7 @@ import nltk
 #     os.makedirs(nltk_data_dir)
 
 # Set the path for NLTK data
-nltk.data.path.append(nltk_data_dir)
+# nltk.data.path.append(nltk_data_dir)
 
 # Download 'punkt' to the custom directory
 nltk.download('punkt')
