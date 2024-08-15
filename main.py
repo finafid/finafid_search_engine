@@ -11,19 +11,19 @@ from pymongo import MongoClient
 import os
 import nltk
 
-# Create a custom directory for nltk_data
-nltk_data_dir = os.path.join(os.getcwd(), 'nltk_data')
+# # Create a custom directory for nltk_data
+# nltk_data_dir = os.path.join(os.getcwd(), 'nltk_data')
 
-# Ensure the directory exists
-if not os.path.exists(nltk_data_dir):
-    os.makedirs(nltk_data_dir)
+# # Ensure the directory exists
+# if not os.path.exists(nltk_data_dir):
+#     os.makedirs(nltk_data_dir)
 
 # Set the path for NLTK data
 nltk.data.path.append(nltk_data_dir)
 
 # Download 'punkt' to the custom directory
-nltk.download('punkt', download_dir=nltk_data_dir)
-
+nltk.download('punkt')
+nltk.download('punkt_tab')
 
 
 # Define tokenizer and stemmer for TF-IDF and fuzzy matching
