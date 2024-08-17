@@ -1,11 +1,14 @@
 Product,Maincategory,Subcategory,Producttype,Brand
-Geo Tokyo Double Bed Sheet 	Home and Lifestyle	Home Decor	Bedsheet	Bianca
-Coastal Stripe Double Bedsheet 	Home and Lifestyle	Home Decor	Bedsheet	Nautica
-Hampton Double Bedsheet	Home and Lifestyle	Home Decor	Bedsheet	Nautica
-Nail Paint	Beauty	Nail Care	Nail Polish	Ola Candy
- Nail Paint	Beauty	Nail Care	Nail Polish	Ola Candy
-Nail Paint	Beauty	Nail Care	Nail Polish	Ola Candy
-Bianca Hand Towel	Home and Lifestyle	Bath Accessories	Hand Towel	Bianca
-O3+ Brightening & Whitening  	Beauty	Face Care	Face Wash	O3+ Professional
-O3+ Cranberry D-Tan	Beauty	Face Care	Face Scrub	O3+ Professional
-O3+ Brightening & Whitening Face Wash	Beauty	Face Care	Face Wash	O3+ Professional
+product,mainCategory,subCategory,productType,brand
+Geo Tokyo Double Bed Sheet ,Home and Lifestyle,Home Decor,Bedsheet,Bianca
+Coastal Stripe Double Bedsheet, Home and Lifestyle, Home Decor, Bedsheet, Nautica
+Hampton Double Bedsheet, Home and Lifestyle, Home Decor, Bedsheet, Nautica
+Nail Paint, Beauty, Nail Care, Nail Polish, Ola Candy
+Nail Paint, Beauty, Nail Care, Nail Polish, Ola Candy
+Nail Paint, Beauty, Nail Care, Nail Polish, Ola Candy
+Bianca Hand Towel, Home and Lifestyle, Bath Accessories, Hand Towel, Bianca
+O3+ Brightening & Whitening, Beauty, Face Care, Face Wash, O3+ Professional
+O3+ Cranberry D-Tan, Beauty, Face Care, Face Scrub, O3+ Professional
+O3+ Brightening & Whitening Face Wash, Beauty, Face Care, Face Wash, O3+ Professional
+
+
